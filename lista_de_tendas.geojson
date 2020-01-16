@@ -242,6 +242,75 @@
 			-8.7220,
 			42.1542]
 		}
+	},
+		     	{
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#ff0000",
+			"marker-size": "medium",
+			"marker-symbol": "shop",
+			"name": "Ferreteria Costa-Vidal",
+			"address": "Rúa Zamora, 88, 36203 Vigo, PO",
+			"web": "",
+			"sells": "Ferretería CON PARKING para clientes"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-8.7285294,
+			42.2230448]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#ff0000",
+			"marker-size": "medium",
+			"marker-symbol": "shop",
+			"name": "Ferreteria Punto Fijo",
+			"address": "Calle Santa Tecla, 71, 36207 Vigo, PO",
+			"web": "http://ferreteria-puntofijo.es/",
+			"sells": "Ferretería"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-8.7022541,
+			42.2504523]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#ff0000",
+			"marker-size": "medium",
+			"marker-symbol": "shop",
+			"name": "Ferreteria Caride SL",
+			"address": "Calle del Doctor Corbal, 8 Bajo, 36207 Vigo, PO",
+			"web": "https://ferreteriacaride.es",
+			"sells": "Ferretería"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-8.6964641,
+			42.2502822]
+		}
+	}
+	,
+	{
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#ff0000",
+			"marker-size": "medium",
+			"marker-symbol": "shop",
+			"name": "Bricolage Romusa, S.A.",
+			"address": "Rúa do Doutor Corbal, 12, 36207 Vigo, Pontevedra",
+			"web": "",
+			"sells": "Madera, venta y cortes a medida"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-8.6968217,
+			42.2505775]
+		}
 	}
 	]
 }
